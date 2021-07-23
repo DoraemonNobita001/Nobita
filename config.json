@@ -1,0 +1,23 @@
+{
+    "ownerNumber": "6281325304141@s.whatsapp.net",
+    "ownerName": "Iqbalzz",
+    "limitCount": 30,
+    "gamewaktu": 60,
+    "botName": "Ara Bot",
+    "pathImg": "./media/Iqbal.jpg",
+    "lolkey": "YOUR_APIKEY",
+    "sesidInsta": "default",
+    "sessionName": "Iqbalzz",
+    "txtDonasi": "GOPAY : 081315995628\nTrakteer : https://trakteer.id/Iqbalzz\nSaweeria : https://saweria.co/Iqbalzz\nPulsa : 081315995628",
+    "gcount": {
+        "prem": 40,
+        "user": 20
+    },
+    "emote":{
+        "free": "◽",
+        "owner": "◾",
+        "limit": "🔸",
+        "glimit": "🔹",
+        "prem": "💰"
+    }
+}
